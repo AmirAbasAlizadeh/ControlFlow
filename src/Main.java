@@ -51,15 +51,6 @@ public class Main {
         dayOfWeek(5);
         dayOfWeek(6);
         dayOfWeek(7);
-
-        printWeekDay(0);
-        printWeekDay(1);
-        printWeekDay(2);
-        printWeekDay(3);
-        printWeekDay(4);
-        printWeekDay(5);
-        printWeekDay(6);
-        printWeekDay(7);
     }
 
 
