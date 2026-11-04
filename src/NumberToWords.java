@@ -1,7 +1,7 @@
 public class NumberToWords {
     public static void main(String[] args) {
 
-        String n = numberToWords(1000);
+        String n = numberToWords(4592);
         System.out.println(n);
     }
 
@@ -48,7 +48,6 @@ public class NumberToWords {
                     case 9:
                         toWords += "nine ";
                         break;
-
                 }
                 revNumber = revNumber / 10;
             counter -- ;
